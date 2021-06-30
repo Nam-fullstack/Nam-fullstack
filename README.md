@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
+I'm a 📚 full-stack developer in the making
+
+🛩 Difficult roads often lead to beautiful destinations 🛩 
+
+💼 Do today what others won't so tomorrow you can do what they can't 💼
 <!--
 **Nam-fullstack/Nam-fullstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
