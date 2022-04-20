@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a 📚 full-stack developer in the making
+I'm a 📚 full-stack developer
 
 🛩 Difficult roads often lead to beautiful destinations 🛩 
 
